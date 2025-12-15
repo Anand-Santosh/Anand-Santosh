@@ -1,6 +1,6 @@
 # Anand-Santosh 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ctrl+C,+Ctrl+V,+ChatGPT+FTW!!;Learning+AI+%26+ML;Building+Cool+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ctrl+C,+Ctrl+V,+ChatGPT Expert!!;Learning+AI+%26+ML;Building+Real+World+Projects)
 
 ---
 
