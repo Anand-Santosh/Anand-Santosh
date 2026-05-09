@@ -1,24 +1,30 @@
-# 👾 Anand Santosh
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ctrl+C,+Ctrl+V,+ChatGPT+FTW!!;Learning+AI+%26+ML;Building+Real+Projects)
+# ⚡ ANAND ⚡
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=AI+Developer;Solo+Founder;Cyberpunk+Builder;Future+Tech+Creator" />
 
-## 🚀 About Me
-- 🎓 BCA Student
-- 🤖 Learning AI & Machine Learning
-- 💻 Python | Web | Automation
-- 🔥 Consistency > Motivation
+</div>
 
 ---
 
-## 🛠 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+# 💀 SYSTEM STATUS
 
----
+```bash
+> Initializing Anand.exe...
+> AI Systems Activated
+> Building Startups...
+> Discipline Mode: ENABLED
+> Mission: Create Impact
+name: Anand
+role: AI Cybersecurity
+focus:
+  - Artificial Intelligence
+  - Startups
+  - Automation
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+currently_learning:
+  - React
+  - Kali Linux
+  - Python
+  - Aws
