@@ -1,266 +1,108 @@
-```
-███████████████████████████████████████████████████████████████
-█                                                             █
-█  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  █
-█  ▓                                                       ▓  █
-█  ▓  ████████╗ ██╗     ███╗   ██╗████████╗███████╗██╗   ██╗ ▓  █
-█  ▓  ╚══██╔══╝ ██║     ████╗  ██║╚══██╔══╝██╔════╝██║   ██║ ▓  █
-█  ▓     ██║    ██║     ██╔██╗ ██║   ██║   █████╗  ██║   ██║ ▓  █
-█  ▓     ██║    ██║     ██║╚██╗██║   ██║   ██╔══╝  ██║   ██║ ▓  █
-█  ▓     ██║    ███████╗██║ ╚████║   ██║   ███████╗╚██████╔╝ ▓  █
-█  ▓     ╚═╝    ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚═════╝  ▓  █
-█  ▓                                                       ▓  █
-█  ▓     >> ANAND SANTOSH - AI WARRIOR INITIALIZED <<     ▓  █
-█  ▓     >> CYBERSECURITY | CLOUD | FULL STACK THREAT << ▓  █
-█  ▓                                                       ▓  █
-█  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  █
-█                                                             █
-███████████████████████████████████████████████████████████████
+<div align="center">
 
-⚠️  WARNING: ELITE DEVELOPER DETECTED
-🔴 STATUS: ACTIVELY HUNTING BUGS & VULNERABILITIES
-🎮 DIFFICULTY LEVEL: HARD MODE ACTIVATED
-```
+# 👋 Hi, I'm Anand
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=BCA+Graduate;Aspiring+AI+Cybersecurity+Cloud+Expert;Web+Developer;Always+Learning+New+Things" />
+
+</div>
 
 ---
 
-## ⚔️ THE LEGEND BEGINS
+# 🚀 About Me
 
-> **You're entering the domain of a warrior coder. I code to break systems, secure systems, and scale systems. Welcome to the battlefield.**
+🎓 BCA Graduate passionate about technology, AI, cybersecurity and cloud computing.
 
-I'm **ANAND SANTOSH** - A **BCA Graduate** turned **Digital Warfare Specialist**. My mission? Master the trinity of **AI**, **Cybersecurity**, and **Cloud Computing**. No mercy. No shortcuts. Only mastery.
+💡 I enjoy building projects, learning from experts and continuously improving my skills.
 
-**Threat Level:** 🔴🔴🔴🔴⚪ (Climbing)  
-**Skill Advancement:** In progress...  
-**Danger to Bugs:** MAXIMUM  
+🎯 My goal is to become an **AI Cybersecurity Cloud Expert** and build impactful technology solutions.
 
 ---
 
-## 🔴 COMBAT STATS (Technical Arsenal)
+# 🛠️ Skills & Technologies
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    SKILL INVENTORY                         ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  💀 PHP              ████████████░░░░░░ 80%  [ARMED]      ║
-║  💀 HTML/CSS         █████████████░░░░░ 90%  [MASTERED]   ║
-║  💀 JavaScript       ██████████░░░░░░░░ 75%  [ARMED]      ║
-║  💀 Python           ███████░░░░░░░░░░░ 70%  [ARMED]      ║
-║  💀 Java             ██████░░░░░░░░░░░░ 70%  [ARMED]      ║
-║  💀 C/C++            █████░░░░░░░░░░░░░ 60%  [LOADED]     ║
-║  💀 Linux Bash       █████░░░░░░░░░░░░░ 60%  [LOADED]     ║
-║  💀 MySQL            ██████░░░░░░░░░░░░ 70%  [ARMED]      ║
-║                                                            ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🎯 MAIN QUEST: BECOME THE TRINITY MASTER
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  OBJECTIVE #1: AI DOMINATION                   📊 30%   ┃
-┃  └─ Learn ML Algorithms          [████░░░░░░]           ┃
-┃  └─ Master Deep Learning         [███░░░░░░░]           ┃
-┃  └─ Build Intelligent Systems    [██░░░░░░░░]           ┃
-┃                                                          ┃
-┃  OBJECTIVE #2: CYBERSECURITY FORTRESS          📊 20%   ┃
-┃  └─ Network Security Mastery     [██░░░░░░░░]           ┃
-┃  └─ Penetration Testing          [█░░░░░░░░░]           ┃
-┃  └─ Encryption & Cryptography    [█░░░░░░░░░]           ┃
-┃                                                          ┃
-┃  OBJECTIVE #3: CLOUD ARCHITECTURE               📊 25%   ┃
-┃  └─ AWS Supremacy                [██░░░░░░░░]           ┃
-┃  └─ Azure Mastery                [██░░░░░░░░]           ┃
-┃  └─ DevOps & Scaling             [███░░░░░░░]           ┃
-┃                                                          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## ⚔️ BATTLE HISTORY (Project Arsenal)
+# 💻 Projects
 
-```
-╔════════════════════════════════════════════════════════╗
-║ 🗡️  LEGENDARY WEAPONS (Completed Projects)           ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║  ⚡ PHP DYNASTY                                        ║
-║  └─ Built dynamic web fortresses with PHP backend     ║
-║  └─ Weaponized HTML/CSS for user interface warfare    ║
-║  └─ Damage: CRITICAL ✓                                ║
-║                                                        ║
-║  ⚡ JAVASCRIPT STRIKE FORCE                            ║
-║  └─ Interactive frontend combat systems               ║
-║  └─ Responsive design battle stations                 ║
-║  └─ Damage: HIGH ✓                                    ║
-║                                                        ║
-║  ⚡ PYTHON STORM                                       ║
-║  └─ Data manipulation & automation warfare            ║
-║  └─ Backend operations command center                 ║
-║  └─ Damage: EXTREME ✓                                 ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+## 🏋️ Gym Management System
+Built using PHP, HTML, CSS and MySQL.
+
+## 🚗 AI Drowsiness Detection System
+Python AI project using computer vision for driver safety.
 
 ---
 
-## 🎮 GAMING PROGRESSION TIMELINE
+# 📚 Currently Learning
 
-```
-████████████████████████████████████████████████████████
-
-2026 Q2  ▓▓▓▓▓░░░░  LEVEL UP: AI & Python Mastery
-         [████░░░░░░] Current XP: Master fundamentals
-
-2026 Q3  ▓▓▓▓░░░░░░  LEVEL UP: Cloud Warrior Training  
-         [███░░░░░░░] Current XP: AWS/Azure Campaigns
-
-2026 Q4  ▓▓░░░░░░░░  LEVEL UP: Cybersecurity Elite
-         [██░░░░░░░░] Current XP: Security Protocols
-
-2027 Q1+ ▓░░░░░░░░░  ULTIMATE: Trinity Master Achieved
-         [█░░░░░░░░░] Current XP: Build the Legend
-         
-████████████████████████████████████████████████████████
-```
+- AI Engineering
+- Cybersecurity
+- Cloud Computing
+- React
+- Backend Development
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+# 🎯 Interests
 
-```
-🔓 Founder's Title                   [BCA Graduate 2024]
-🔓 First Blood                       [First Project Complete]
-🔓 Polyglot                          [Mastered 8+ Languages]
-🔓 Web Warrior                       [Multiple Web Projects]
-🔓 Snake Handler                     [Python Projects Built]
-🔐 AI Architect                      [LOCKED - In Progress]
-🔐 Cloud Overlord                    [LOCKED - Incoming]
-🔐 Security Nexus                    [LOCKED - Next Mission]
-🔐 The Trinity Master                [LOCKED - ULTIMATE GOAL]
-```
+- 📖 Reading books & learning new things
+- 🎸 Learning Guitar
+- 🏏 Playing Cricket
+- 🚀 Building projects
+- 🧠 Learning from top experts
 
 ---
 
-## 🎪 SIDE QUESTS (Beyond The Code)
+## 📊 GitHub Statistics & Languages
 
-```
-┌──────────────────────────────────────────────┐
-│ 🎸 GUITAR SYMPHONY        [LVL 5] ███░░░░░░ │
-│    Special Ability: Stress Relief Mechanism  │
-│                                              │
-│ 🏏 CRICKET WARRIOR        [LVL 8] ████████░░│
-│    Special Ability: Teamwork & Strategy     │
-│                                              │
-│ 📚 KNOWLEDGE SEEKER       [LVL 9] █████████░│
-│    Special Ability: Infinite Learning       │
-│                                              │
-│ 🧠 MENTOR HUNTER          [LVL 7] ███████░░░│
-│    Special Ability: Guidance from Legends   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand-Santosh&theme=radical&hide_border=true&background=1a1a2e&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/Anand-Santosh)
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anand-Santosh&bg_color=1a1a2e&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🔥 CURRENT BATTLE STATUS
+# 🌐 Connect With Me
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  MISSION STATUS                     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                      ┃
-┃  🔴 ONLINE - ACTIVELY CODING         ┃
-┃  🔴 HUNTING - Bugs & Vulnerabilities ┃
-┃  🔴 LEARNING - New Technologies      ┃
-┃  🔴 BUILDING - Real-World Solutions  ┃
-┃                                      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-## ⚡ SUMMON THE WARRIOR - CONTACT PROTOCOLS
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
 
-```
-🎮 MULTIPLAYER MODE - JOIN MY GUILD
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com)
 
-  📧 Email Battle Channel
-     → [your.email@gmail.com](mailto:your.email@gmail.com)
-     
-  🔗 LinkedIn War Room
-     → [linkedin.com/in/anand-santosh](https://linkedin.com/in/anand-santosh)
-     
-  🌐 Portfolio Fortress
-     → [your-portfolio.com](https://your-portfolio.com)
-     
-  💬 Twitter Command Center
-     → [@AnandSantosh](https://twitter.com/AnandSantosh)
-
-ALLIANCE BENEFITS:
-  ✓ Collaborate on Epic Quests
-  ✓ Share Battle Strategies
-  ✓ Learn from Fellow Warriors
-  ✓ Build Legendary Projects Together
-```
-
----
-
-## 📊 BATTLE STATISTICS
-
-```
-╔════════════════════════════════════════╗
-║ GITHUB COMBAT RECORD                   ║
-╠════════════════════════════════════════╣
-║ Commits in Battle        : [COUNTING]  ║
-║ Languages Mastered       : 8+          ║
-║ Projects Completed       : Growing     ║
-║ Contributions This Month  : [TRACKING] ║
-║ Kill Streak (Bug Fixes)   : [ACTIVE]   ║
-╚════════════════════════════════════════╝
-```
-
----
-
-## 💀 THE WARRIOR'S CREED
-
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  "Code is my weapon.                                  ║
-║   Security is my shield.                              ║
-║   AI is my destiny.                                   ║
-║                                                        ║
-║   Every bug defeated makes me stronger.               ║
-║   Every project completed marks my ascension.         ║
-║   Every expert taught me refines my craft.            ║
-║                                                        ║
-║   I don't just code. I architect futures.             ║
-║   I don't just learn. I master.                       ║
-║   I don't just build. I conquer.                      ║
-║                                                        ║
-║   Welcome to the battlefield.                         ║
-║   The legend has begun.                               ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+</div>
 
 ---
 
 <div align="center">
 
-## 🔴 GAME ON. WARRIOR MODE ACTIVATED. 🔴
-
-**Last System Update:** 2026-05-09  
-**Status:** READY FOR NEXT LEVEL  
-**Threat Level:** 🔴🔴🔴🔴⚪
-
----
-
-**⚔️ May your code be clean and your security unbreakable ⚔️**
+⭐ “Consistent learning and disciplined execution create extraordinary results.”
 
 </div>
