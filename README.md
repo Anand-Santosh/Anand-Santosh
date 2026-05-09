@@ -1,30 +1,44 @@
-<div align="center">
+# Hi 👋, I'm Anand
 
-# ⚡ ANAND ⚡
+### Aspiring CyberSecurity Expert 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=AI+Developer;Solo+Founder;Cyber+Securuty;Content Creator" />
-
-</div>
+Passionate about building AI tools,Automation systems and Modern web experiences.
 
 ---
 
-# 💀 SYSTEM STATUS
+## 🚀 About Me
 
-```bash
-> Initializing Anand.exe...
-> AI Systems Activated
-> Building Startups...
-> Discipline Mode: ENABLED
-> Mission: Create Impact
-Name: Anand
-Role: AI Cybersecurity
-focus:
-  - Artificial Intelligence
-  - Startups
-  - Automation
+- 🔭 Currently building AI and automation projects
+- 🌱 Learning Python, Cloud and AWS 
+- 💡 Interested in learning, productivity and Communicating
+- 🎯 Goal: Build impactful technology products
 
-currently_learning:
-  - React
-  - Kali Linux
-  - Python
-  - Aws
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Anand S GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand-Santosh&show_icons=true&theme=tokyonight)
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com)
+
+[Instagram](https://instagram.com)
+
+[X / Twitter](https://x.com)
+
+---
+
+⭐ Always learning and building.
