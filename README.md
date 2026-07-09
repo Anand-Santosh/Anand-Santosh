@@ -10,11 +10,11 @@
 
 # 🚀 About Me
 
-🎓 BCA Graduate passionate about technology, AI, cybersecurity and cloud computing.
+🎓 BCA Graduate passionate about technology, AI
 
 💡 I enjoy building projects, learning from experts and continuously improving my skills.
 
-🎯 My goal is to become an **AI Cybersecurity Cloud Expert** and build impactful technology solutions.
+🎯 My goal is to become an **Data Scientist** and build impactful technology solutions.
 
 ---
 
