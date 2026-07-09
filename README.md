@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anand
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=BCA+Graduate;Aspiring+AI+Cybersecurity+Cloud+Expert;Web+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=BCA+Graduate;Aspiring+Data+Scientist;Always+Learning+New+Things" />
 
 </div>
 
